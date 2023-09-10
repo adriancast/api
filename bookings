@@ -1,0 +1,32 @@
+{
+    "bookings": [
+        {
+            "id": 1,
+            "hotel_id": 1,
+            "client_id": 1,
+            "start_date": "2023-01-10",
+            "end_date": "2023-01-13"
+        },
+        {
+            "id": 2,
+            "hotel_id": 3,
+            "client_id": 1,
+            "start_date": "2023-01-15",
+            "end_date": "2023-01-16"
+        },
+        {
+            "id": 3,
+            "hotel_id": 2,
+            "client_id": 2,
+            "start_date": "2023-03-12",
+            "end_date": "2023-03-15"
+        },
+        {
+            "id": 4,
+            "hotel_id": 5,
+            "client_id": 3,
+            "start_date": "2023-05-01",
+            "end_date": "2023-05-06"
+        }
+    ]
+}
