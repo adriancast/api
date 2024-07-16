@@ -1,0 +1,83 @@
+{
+  "status": "success",
+  "city": "Paris",
+  "hotels": [
+    {
+      "id": "P123",
+      "details": {
+        "name": "Eiffel Tower Hotel",
+        "address": "123 Rue de la Paix, Paris, France 75001",
+        "rating": 4.9
+      },
+      "availability": {
+        "rooms": 7,
+        "price_per_night": 350
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast included",
+        "Swimming pool",
+        "Gym",
+        "Spa",
+        "City view"
+      ]
+    },
+    {
+      "id": "P124",
+      "details": {
+        "name": "Louvre Palace Hotel",
+        "address": "456 Louvre St, Paris, France 75002",
+        "rating": 4.6
+      },
+      "availability": {
+        "rooms": 5,
+        "price_per_night": 300
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast included",
+        "Gym",
+        "Bar",
+        "Pet friendly"
+      ]
+    },
+    {
+      "id": "P125",
+      "details": {
+        "name": "Champs Elysees Hotel",
+        "address": "789 Champs Elysees, Paris, France 75008",
+        "rating": 4.7
+      },
+      "availability": {
+        "rooms": 9,
+        "price_per_night": 320
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast included",
+        "Swimming pool",
+        "Rooftop terrace",
+        "Gym",
+        "Conference center"
+      ]
+    },
+    {
+      "id": "P126",
+      "details": {
+        "name": "Seine River Hotel",
+        "address": "101 Seine River Rd, Paris, France 75004",
+        "rating": 4.3
+      },
+      "availability": {
+        "rooms": 12,
+        "price_per_night": 280
+      },
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast included",
+        "Pet friendly",
+        "Gym"
+      ]
+    }
+  ]
+}
