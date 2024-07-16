@@ -1,0 +1,67 @@
+{
+  "status": "success",
+  "data": {
+    "city": "New York",
+    "hotels": [
+      {
+        "id": "123",
+        "label": "The Grand Hotel",
+        "address": "123 Main Street, New York, NY 10001",
+        "rating": 9.5,
+        "rooms_available": 12,
+        "price_per_night": 250,
+        "amenities": [
+          "Free Wi-Fi",
+          "Breakfast included",
+          "Swimming pool",
+          "Gym",
+          "Airport shuttle"
+        ]
+      },
+      {
+        "id": "124",
+        "label": "Central Park Inn",
+        "address": "456 Park Ave, New York, NY 10022",
+        "rating": 9.0,
+        "rooms_available": 8,
+        "price_per_night": 200,
+        "amenities": [
+          "Free Wi-Fi",
+          "Breakfast included",
+          "Pet friendly",
+          "Gym"
+        ]
+      },
+      {
+        "id": "125",
+        "label": "Times Square Hotel",
+        "address": "789 Broadway, New York, NY 10019",
+        "rating": 6.8,
+        "rooms_available": 5,
+        "price_per_night": 300,
+        "amenities": [
+          "Free Wi-Fi",
+          "Breakfast included",
+          "Swimming pool",
+          "Spa",
+          "Gym",
+          "Bar"
+        ]
+      },
+      {
+        "id": "126",
+        "label": "Brooklyn Boutique Hotel",
+        "address": "101 Brooklyn Bridge Blvd, Brooklyn, NY 11201",
+        "rating": 7.9,
+        "rooms_available": 10,
+        "price_per_night": 180,
+        "amenities": [
+          "Free Wi-Fi",
+          "Breakfast included",
+          "Rooftop terrace",
+          "Pet friendly"
+        ]
+      }
+    ]
+  }
+}
